@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Link from "next/Link";
+import Link from "next/link";
 
 // Layout関数　children, titleをpropsとして受け取る
 // children : Layoutをインポートしたコンポーネントでラップしているすべてのコンテンツが渡される
